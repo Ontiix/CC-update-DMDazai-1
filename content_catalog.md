@@ -6101,7 +6101,8 @@ A Two-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 Part Nine on A Song of Fates.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przedmiot Instrument of the Bards (Doss Lute), uncommon, należy zastąpić przedmiotem Instrument of the Bards (Canaith Mandoline), rare, z zachowaniem fluffu i minor ability.
+Finałowa walka nie ma skalowania poziomu trudności. Aby ją dostosować, można zmodyfikować czynniki środowiskowe i Lair Actions.
 
 ### [To Boldly Go](https://www.dmsguild.com/en/product/267942/ccc-tarot02-03-to-boldly-go)
 
