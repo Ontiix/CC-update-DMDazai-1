@@ -670,6 +670,7 @@
 | WBW-DC-ROG-03                           | II             | 4h             | [Hope in Medusa's Eye](#hope-in-medusas-eye)                                                                  |
 | WBW-DC-THAL-01                          | I              | 4h             | [Heartfire Lost](#heartfire-lost)                                                                             |
 | RV-DC-FREAK-01                          | I              | 2h             | [Hypnotic Pattern](#hypnotic-pattern)                                                                         |
+| FR-DC-FALL-01                           | III            | 4h             | [Cathedral of Ice](#cathedral-of-ice)                                                                         |
 | Przygody dopuszczone spoza kanonu AL    |
 | GCC-JOYCE-01                            | II             | 2h             | [Weekend at Strahd’s](#weekend-at-strahds)                                                                    |
 | KCC-KWIEK-01                            | II             | 2h             | [Mountain Brew](#mountain-brew)                                                                               |
@@ -8297,3 +8298,14 @@ Przygoda została stworzona w oparciu o zasady z wersji 2024, zatem powinna być
 Statblocki powinny zostać zamienione na odpowiedniki z wersji 2014.
 Study action (Arcana) powinno zostać zamienione na Arcana check.
 Przedmioty magiczne powinny zostać zamienione na odpowiedniki z wersji 2014 oraz rozdane zgodnie z zasadami OPK- po jednym na całą drużynę, nie po jednym na postać. 
+
+### [Cathedral of Ice](https://www.dmsguild.com/en/product/489397/cathedral-of-ice-fr-dc-fall-01)
+
+**Informacje o przygodzie:**
+The town of Summervale in Icewind Dale is preparing to host its first Summer Solstice Festival since the end of the Rime. 
+Unfortunately, a fallen cleric of Auril seeks to cancel the festivities using old artifacts and forbidden magic to bring back the unending ice in a bid to win back the favor of his goddess.
+
+A Tier 3 Adventure set in Icewind Dale, optimized for APL 14
+
+**Komentarz**
+Przygoda przewiduje przedmiot Bow of Melodies, który nie został dopuszczony do naszych rozgrywek, zatem powinien on zostać zamieniony na przedmiot Oathbow, z zachowaniem fluffu i minor property.
